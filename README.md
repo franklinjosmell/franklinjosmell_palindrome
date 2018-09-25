@@ -4,10 +4,10 @@
 
 ## Installation
 
-To install `mhartl_palindrome`, add this line to your application's `Gemfile`:
+To install `franklinjosmell_palindrome`, add this line to your application's `Gemfile`:
 
 ```
-gem 'mhartl_palindrome'
+gem 'franklinjosmell_palindrome'
 ```
 
 Then install as follows:
@@ -19,7 +19,7 @@ $ bundle install
 Or install it directly using `gem`:
 
 ```
-$ gem install mhartl_palindrome
+$ gem install franklinjosmell_palindrome
 ```
 
 ## Usage
