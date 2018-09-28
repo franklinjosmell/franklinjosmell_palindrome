@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["franklinjosmell@gmail.com"]
 
   spec.summary       = %q{Palindrome detector}
-  spec.description   = %q{Learn Enough Ruby palindrome detector}
+  spec.description   = %q{Learn Enough Ruby palindrome detector.}
   spec.homepage      = "https://github.com/franklinjosmell/franklinjosmell_palindrome"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
